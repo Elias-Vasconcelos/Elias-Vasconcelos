@@ -1,8 +1,8 @@
 # Olá, Eu sou o Elias Ferreira 😄
 
-Sou um Desenvolvedor Front-end Junior com foco em desenvolvimento web e experiência na criação de interfaces interativas, responsivas e acessíveis. Sempre busco aprimorar a experiência do usuário, utilizando minhas habilidades em JavaScript e TypeScript, além dos principais frameworks e bibliotecas do mercado, como React, Vue.js, Angular, jQuery e Bootstrap.
+Sou um Desenvolvedor Full Stack com foco em desenvolvimento web, criando aplicações escaláveis e eficientes tanto no front-end quanto no back-end. Busco aprimorar a experiência do usuário utilizando tecnologias como JavaScript, TypeScript, React, Vue.js, Angular, jQuery e Bootstrap, além de Java para o desenvolvimento back-end e bancos de dados MySQL, PostgreSQL e MongoDB.
 
-Além dessas habilidades, tenho conhecimento em pré-processadores CSS, como Sass e Less, e ferramentas de build e automação de tarefas, como Grunt e Gulp. Também estou familiarizado com ferramentas de testes unitários e end-to-end, como Jest e Cypress, garantindo segurança e estabilidade nos projetos em que trabalho.
+Também tenho experiência com pré-processadores CSS (Sass, Less), ferramentas de build e automação (Grunt, Gulp) e testes automatizados com Jest e Cypress, garantindo qualidade e estabilidade nos projetos que desenvolvo.
 
 <div align="center">  
   <img width="50%" height="300x" src="https://github-readme-stats.vercel.app/api?username=Elias-Vasconcelos&show_icons=true&theme=dracula" /> 
