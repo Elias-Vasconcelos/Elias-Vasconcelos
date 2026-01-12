@@ -4,21 +4,6 @@ Sou um Desenvolvedor Full Stack com foco em desenvolvimento web, criando aplica�
 
 Também tenho experiência com pré-processadores CSS (Sass, Less), ferramentas de build e automação (Grunt, Gulp) e testes automatizados com Jest e Cypress, garantindo qualidade e estabilidade nos projetos que desenvolvo.
 
-<div align="center">  
-  <img width="50%" height="300x" src="https://github-readme-stats.vercel.app/api?username=Elias-Vasconcelos&show_icons=true&theme=dracula" /> 
-  <img width="40%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Vasconcelos&layout=compact&theme=dracula" />
-</div>
-
-
-
-<div align="center" >
-
-
-<div align="start"  width="40%" >
-  <h3> Meus contatos </h3>
-  <a href="mailto:eliasferreiraoficial14@gmail.com" target="_blank" > <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
-  <a href="https://www.linkedin.com/in/elias-ferreira-4404b9224/" target="_blank" > <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /> </a>
-</div>
 
 <div align="start" width="40%" >
   <h3> Linguagens De progamacao </h3>
